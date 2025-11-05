@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "379869169654",
+    "project_id": "neighborhood-nern",
+    "storage_bucket": "neighborhood-nern.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379869169654:android:43196ecb38cc23965829d7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh6aLPr5KYIrFmHhyKmbwQImrPChkqBqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
